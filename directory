@@ -1,0 +1,8 @@
+/birthday-site
+    |-- index.html
+    |-- styles.css
+    |-- scripts.js
+    |-- images/
+        |-- image1.jpg
+        |-- image2.jpg
+        |-- image3.jpg
